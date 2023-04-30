@@ -1,0 +1,63 @@
+hr {
+    background-color: rgb(255, 0, 0);
+    background-position: center;
+    height: 5px;
+}
+
+.form-detail{
+           width: 40%;
+            height: 42px;
+            box-sizing: border-box;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+            font-size: 14px;
+            font-family: Montserrat;
+            padding: 0 20px 0 50px;
+            outline: none;   
+}
+h3{
+  color: rgb(255, 255, 255);
+  font-size: 4vh;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  border-radius: 10vh;
+}
+
+
+.type{
+    text-align: left;
+}
+.bf{
+    font-size:4vh;
+}
+.sub{
+    width: 100%;
+    height: 40px;
+    background: #ff656c;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #e15960;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: Montserrat;
+    outline: none;
+    cursor: pointer;
+}
+.your-booking{
+font-size: 3.5vh;
+text-align: center;
+}
+
+.not-reg{
+    font-size: 3.5vh;
+}
+.booking{
+    margin-left: auto;
+  margin-right: auto;
+    background-color: rgb(255, 255, 255);
+border-radius: 3vh;
+
+}
